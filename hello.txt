@@ -6,4 +6,6 @@ adding second line for git
 
 this is for branch B
 
+5 th line for git merge test
+
 
