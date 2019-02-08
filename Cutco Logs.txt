@@ -1,0 +1,114 @@
+
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Failed to make directory /var/cache/mod_pagespeed/rname: Permissio
+n denied
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Could not create directories for file /var/cache/mod_pagespeed/rna
+me/ic_ZWXam6Ag0Z0YF7t9aVyR/http,3A/,2Fwww.vectorconnect.com/static/images/sitewide/logo.png,40x,40ss_,.temp
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] /var/cache/mod_pagespeed/rname/ic_ZWXam6Ag0Z0YF7t9aVyR/http,3A/,2F
+www.vectorconnect.com/static/images/sitewide/logo.png,40x,40ss_,.tempEslKR5:0: opening temp file: No such file or directory
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Failed to make directory /var/cache/mod_pagespeed/prop_page: Permi
+ssion denied
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Could not create directories for file /var/cache/mod_pagespeed/pro
+p_page/http,3A/,2Fwww.vectorconnect.com/spring/home.do_ZWXam6Ag0Z,40Mobile,40beacon_cohort,.temp
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] /var/cache/mod_pagespeed/prop_page/http,3A/,2Fwww.vectorconnect.co
+m/spring/home.do_ZWXam6Ag0Z,40Mobile,40beacon_cohort,.tempJLulIu:0: opening temp file: No such file or directory
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Failed to make directory /var/cache/mod_pagespeed/v2: Permission d
+enied
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Could not create directories for file /var/cache/mod_pagespeed/v2/
+vectorconnect.com/http,3A/,2Fwww.vectorconnect.com/static/images/sitewide/user.png,.temp
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] /var/cache/mod_pagespeed/v2/vectorconnect.com/http,3A/,2Fwww.vecto
+rconnect.com/static/images/sitewide/user.png,.tempbVQszT:0: opening temp file: No such file or directory
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Failed to make directory /var/cache/mod_pagespeed/v2: Permission d
+enied
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Could not create directories for file /var/cache/mod_pagespeed/v2/
+vectorconnect.com/http,3A/,2Fwww.vectorconnect.com/static/images/sitewide/chevron.png,.temp
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] /var/cache/mod_pagespeed/v2/vectorconnect.com/http,3A/,2Fwww.vecto
+rconnect.com/static/images/sitewide/chevron.png,.tempqwZBqi:0: opening temp file: No such file or directory
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Failed to make directory /var/cache/mod_pagespeed/rname: Permissio
+n denied
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Could not create directories for file /var/cache/mod_pagespeed/rna
+me/ic_ZWXam6Ag0Z0YF7t9aVyR/http,3A/,2Fwww.vectorconnect.com/static/images/sitewide/user.png,4050xNx,40ss_,.temp
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] /var/cache/mod_pagespeed/rname/ic_ZWXam6Ag0Z0YF7t9aVyR/http,3A/,2F
+www.vectorconnect.com/static/images/sitewide/user.png,4050xNx,40ss_,.tempdfFLhH:0: opening temp file: No such file or directory
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Failed to make directory /var/cache/mod_pagespeed/rname: Permissio
+n denied
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Could not create directories for file /var/cache/mod_pagespeed/rna
+me/ic_ZWXam6Ag0Z0YF7t9aVyR/http,3A/,2Fwww.vectorconnect.com/static/images/sitewide/chevron.png,40x,40ss_,.temp
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] /var/cache/mod_pagespeed/rname/ic_ZWXam6Ag0Z0YF7t9aVyR/http,3A/,2F
+www.vectorconnect.com/static/images/sitewide/chevron.png,40x,40ss_,.tempLsYW85:0: opening temp file: No such file or directory
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Failed to make directory /var/cache/mod_pagespeed/v2: Permission d
+enied
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Could not create directories for file /var/cache/mod_pagespeed/v2/
+vectorconnect.com/http,3A/,2Fwww.vectorconnect.com/spring/home.do,.temp
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] /var/cache/mod_pagespeed/v2/vectorconnect.com/http,3A/,2Fwww.vecto
+rconnect.com/spring/home.do,.tempOPYw1u:0: opening temp file: No such file or directory
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Failed to make directory /var/cache/mod_pagespeed/v2: Permission d
+enied
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Could not create directories for file /var/cache/mod_pagespeed/v2/
+vectorconnect.com/http,3A/,2Fwww.vectorconnect.com/static/images/sitewide/side-nav-alert.png,.temp
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] /var/cache/mod_pagespeed/v2/vectorconnect.com/http,3A/,2Fwww.vecto
+rconnect.com/static/images/sitewide/side-nav-alert.png,.tempMQmiUT:0: opening temp file: No such file or directory
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Failed to make directory /var/cache/mod_pagespeed/v2: Permission d
+enied
+[Wed May 04 07:17:50 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Could not create directories for file /var/cache/mod_pagespeed/v2/
+
+
+
+
+
+
+
+
+
+[Wed May 04 07:36:00 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Failed to make directory /var/cache/mod_pagespeed/v2: Permission d
+enied
+[Wed May 04 07:36:00 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Could not create directories for file /var/cache/mod_pagespeed/v2/
+vectorconnect.com/http,3A/,2Fwww.vectorconnect.com/static/images/sitewide/log-out-icon.png,.temp
+[Wed May 04 07:36:00 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] /var/cache/mod_pagespeed/v2/vectorconnect.com/http,3A/,2Fwww.vecto
+rconnect.com/static/images/sitewide/log-out-icon.png,.temphGRAYS:0: opening temp file: No such file or directory
+[Wed May 04 07:36:00 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Failed to make directory /var/cache/mod_pagespeed/v2: Permission d
+enied
+
+
+
+
+
+Image result for mod_pagespeed
+mod_pagespeed is an open source module for Apache and Nginx web server that automatically optimize Web Pages to improve better performance while serving web pages using HTTP Server. It has several filters that automatically optimize files like HTML, CSS, JavaScript, JPEG, PNG and other resources.Mar 4, 2016
+
+
+
+
+[Wed May 04 10:05:47 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Could not create directories for file /var/cache/mod_pagespeed/rna
+me/jm_ZWXam6Ag0Z0YF7t9aVyR/http,3A/,2Fwww.vectorconnect.com/static/js/classie.js,40,40_,.temp
+[Wed May 04 10:05:47 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] /var/cache/mod_pagespeed/rname/jm_ZWXam6Ag0Z0YF7t9aVyR/http,3A/,2F
+www.vectorconnect.com/static/js/classie.js,40,40_,.tempnnmUif:0: opening temp file: No such file or directory
+[Wed May 04 10:05:47 2016] [warn] [mod_pagespeed 1.9.32.14-0 @54330] Failed to read cache clean timestamp /var/cache/mod_pagespeed/!clea
+n!time!.  Doing an extra cache clean to be safe.
+[Wed May 04 10:05:47 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Failed to mkdir /var/cache/mod_pagespeed/!clean!lock!: Permission
+denied
+[Wed May 04 10:05:47 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Failed to make directory /var/cache/mod_pagespeed/rname: Permissio
+n denied
+[Wed May 04 10:05:47 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Could not create directories for file /var/cache/mod_pagespeed/rna
+me/jm_ZWXam6Ag0Z0YF7t9aVyR/http,3A/,2Fwww.vectorconnect.com/static/js/uisearch.js,40,40_,.temp
+[Wed May 04 10:05:47 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] /var/cache/mod_pagespeed/rname/jm_ZWXam6Ag0Z0YF7t9aVyR/http,3A/,2F
+www.vectorconnect.com/static/js/uisearch.js,40,40_,.tempVXQLDp:0: opening temp file: No such file or directory
+[Wed May 04 10:05:47 2016] [warn] [mod_pagespeed 1.9.32.14-0 @54330] Failed to read cache clean timestamp /var/cache/mod_pagespeed/!clea
+n!time!.  Doing an extra cache clean to be safe.
+[Wed May 04 10:05:47 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Failed to mkdir /var/cache/mod_pagespeed/!clean!lock!: Permission
+denied
+[Wed May 04 10:05:47 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Failed to make directory /var/cache/mod_pagespeed/v2: Permission d
+enied
+[Wed May 04 10:05:47 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] Could not create directories for file /var/cache/mod_pagespeed/v2/
+vectorconnect.com/http,3A/,2Fwww.vectorconnect.com/static/css/vectorconnect_new_template/my_account.css,.temp
+[Wed May 04 10:05:47 2016] [error] [mod_pagespeed 1.9.32.14-0 @54330] /var/cache/mod_pagespeed/v2/vectorconnect.com/http,3A/,2Fwww.vecto
+rconnect.com/static/css/vectorconnect_new_template/my_account.css,.tempQjfc0z:0: opening temp file: No such file or directory
+[Wed May 04 10:05:47 2016] [warn] [mod_pagespeed 1.9.32.14-0 @54330] Failed to read cache clean timestamp /var/cache/mod_pagespeed/!clea
+n!time!.  Doing an extra cache clean to be safe.
+
+
+
+
+
+
+
+
