@@ -8,4 +8,8 @@ this is for branch B
 
 5 th line for git merge test
 
+this is the 6 th line 
+
+new line added
+
 
